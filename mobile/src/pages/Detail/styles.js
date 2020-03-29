@@ -39,7 +39,7 @@ export default StyleSheet.create({
     padding: 24,
     borderRadius: 8,
     backgroundColor: '#FFF',
-    marginBottom: 16,
+    marginBottom: 56,
     marginTop: 48,
   },
 
