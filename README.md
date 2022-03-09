@@ -35,7 +35,7 @@ Seja um  herói e faça a diferença na vida de alguém! #Hero</h4>
 <li class="has-line-data" data-line-start="13" data-line-end="14">Clone este repositório</li>
 <li class="has-line-data" data-line-start="14" data-line-end="15">Execute no projeto os comandos abaixo:</li>
 </ul>
-<pre><code class="has-line-data" data-line-start="16" data-line-end="19" class="language-sh">$ npm install
+<pre><code class="has-line-data" data-line-start="16" data-line-end="19" class="language-sh">$ npm install ou yarn
 </code></pre>
 <h3 class="code-line" data-line-start=12 data-line-end=13 ><a id="Running_Application_12"></a>Running Front-end Application:</h3>
 <ul>
