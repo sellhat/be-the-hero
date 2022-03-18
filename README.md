@@ -34,8 +34,15 @@ Seja um  herói e faça a diferença na vida de alguém! #Hero</h4>
 <ul>
 <li class="has-line-data" data-line-start="13" data-line-end="14">Clone este repositório</li>
 <li class="has-line-data" data-line-start="14" data-line-end="15">Execute no projeto os comandos abaixo:</li>
+<li class="has-line-data" data-line-start="14" data-line-end="15">OBS: pode-se utilizar o gerenciadores de pacotes NPM ou o YARN para rodar os comandos abaixo:</li>
 </ul>
-<pre><code class="has-line-data" data-line-start="16" data-line-end="19" class="language-sh">$ npm install ou yarn
+<pre><code class="has-line-data" data-line-start="16" data-line-end="19" class="language-sh">Execute npm install nas pastas BACKEND, FRONTEND e MOBILE, para instalar as dependências.
+
+Rode npm start nas pastas BACKEND e FRONTEND para utilizar a versão web. Acesse via localhost:3000.
+
+Rode npm start nas pastas BACKEND e MOBILE, leia o QR Code no seu celular e utilize o aplicativo
+Expo para rodar a versão mobile no seu smartphone.
+Você também pode usar com algum emulador Android/iOS para rodar no seu computador.
 </code></pre>
 <h3 class="code-line" data-line-start=12 data-line-end=13 ><a id="Running_Application_12"></a>Running Front-end Application:</h3>
 <ul>
