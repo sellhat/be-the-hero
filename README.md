@@ -44,24 +44,7 @@ Rode npm start nas pastas BACKEND e MOBILE, leia o QR Code no seu celular e util
 Expo para rodar a versão mobile no seu smartphone.
 Você também pode usar com algum emulador Android/iOS para rodar no seu computador.
 </code></pre>
-<h3 class="code-line" data-line-start=12 data-line-end=13 ><a id="Running_Application_12"></a>Running Front-end Application:</h3>
-<ul>
-<li class="has-line-data" data-line-start="14" data-line-end="15">Execute o comando no projeto para iniciar o front-end aplicação:</li>
-</ul>
-<pre><code class="has-line-data" data-line-start="16" data-line-end="19" class="language-sh">$ npm start
-</code></pre>
-<h3 class="code-line" data-line-start=12 data-line-end=13 ><a id="Running_Application_12"></a>Running Back-end Application:</h3>
-<ul>
-<li class="has-line-data" data-line-start="14" data-line-end="15">Execute o comando no projeto para iniciar o back-end aplicação:</li>
-</ul>
-<pre><code class="has-line-data" data-line-start="16" data-line-end="19" class="language-sh">$ npm run dev
-</code></pre>
-<h3 class="code-line" data-line-start=12 data-line-end=13 ><a id="Running_Application_12"></a>Running Mobile Application:</h3>
-<ul>
-<li class="has-line-data" data-line-start="14" data-line-end="15">Execute o comando no projeto para iniciar o mobile da aplicação:</li>
-</ul>
-<pre><code class="has-line-data" data-line-start="16" data-line-end="19" class="language-sh">$ npm start
-</code></pre>
+
 <h3 class="code-line" data-line-start=20 data-line-end=21 ><a id="Testing_Application_20"></a>Imagens da aplicação:</h3>
 <p class="has-line-data" data-line-start="21" data-line-end="22"><a href="http://localhost:3000/#/">http://localhost:3000/#/</a></p>
 <img src="https://i.ibb.co/Wf1CChk/cadastro-ong-be-the-hero.png">
